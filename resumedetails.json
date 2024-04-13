@@ -1,0 +1,47 @@
+
+[{
+    "basicDetails":
+    {
+        "name": "Muthukumar S",
+        "email": "muthukumar24081999@gmail.com",
+        "address":
+        {
+            "doorno": "No 1/120",
+            "street": "South Street",
+            "area": "Thalachangadu",
+            "city": "Mayiladuthurai",
+            "state": "Tamilnadu",
+            "pincode": 609107
+        }
+    },
+    "experience":
+    {
+        "company": "Tech Mahindra",
+        "Role": "Software Engineer",
+        "yearsofexperience": "One year"
+    },
+    "education":
+    {
+        "college":
+        {
+        "degree": "B.Tech - IT",
+        "institue": "SKR Engineering College",
+        "location": "Chennai"
+        },
+        "school":
+        {
+        "hsc": "Computer Science",
+        "institue": "Kalaimahal Hr Sec School",
+        "location": "Akkur"  
+        }
+    },
+    "skills":
+    {
+        "name": "Java Script",
+        "level": "Beginner"
+    },
+    "interests":
+    {
+        "outdoorsports": "Cricket and Volleyball"
+    }
+}]
